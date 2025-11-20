@@ -31,3 +31,5 @@ function gcd(a, b) {
         return gcd(n, r);
     }
 }
+
+module.exports = gcd;
